@@ -19,7 +19,7 @@
 CREATE DATABASE exportar_excel_php;
 ```
 
-### Creación de las tabla Clientes:
+### Creación de la tabla Clientes:
 
 ```sql
 CREATE TABLE clients (
